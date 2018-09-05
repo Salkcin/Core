@@ -96,8 +96,8 @@ public class Core extends JavaPlugin{
 	// speech over
 	
 
-	//first rule of 2017:
-	// dont talk about 2016.
+	//first rule of 2018:
+	// dont talk about 2017.
 	
 	
 
